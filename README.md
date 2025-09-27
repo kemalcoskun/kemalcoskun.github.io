@@ -1,1 +1,1 @@
-# kemalcoskun.github.io
+# Datenschutzerklärung
