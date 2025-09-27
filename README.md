@@ -7,5 +7,5 @@ Die Daten werden ausschließlich im Google-Konto des Nutzers gespeichert.
 Der Entwickler dieser Extension hat keinen Zugriff auf diese Daten.
 Eine Weitergabe oder Auswertung durch den Entwickler erfolgt nicht.
 
-Weitere Informationen zur Datenverarbeitung durch Google finden Sie in den [Datenschutzbestimmungen von Googl](https://policies.google.com/privacy?hl=de).
+Weitere Informationen zur Datenverarbeitung durch Google finden Sie in den [Datenschutzbestimmungen von Google](https://policies.google.com/privacy?hl=de).
 Die Nutzung der Extension ist vollständig ohne Registrierung oder Eingabe personenbezogener Daten möglich.
